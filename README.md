@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan Jose Puente Scapolatempo
+
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: my website
 
 <!--
-**josescap2/josescap2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**camilosanchezdev/camilosanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Profiles
+- CodeWars
+
+# Languages
+- JavaScript
+- HTML/CSS
+- C#
+
+# Frameworks
+- .NET Core
+- ReactJS
+- Bootstrap
+- Materialize
